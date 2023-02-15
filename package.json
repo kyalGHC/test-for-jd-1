@@ -1,0 +1,22 @@
+{
+  "name": "test-for-jd-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyalGHC/test-for-jd-1.git"
+  },
+  "author": "Kyal Lanum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyalGHC/test-for-jd-1/issues"
+  },
+  "homepage": "https://github.com/kyalGHC/test-for-jd-1#readme",
+  "dependencies": {
+    "express": "^4.8.5"
+  }
+}
